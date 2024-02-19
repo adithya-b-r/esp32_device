@@ -1,6 +1,6 @@
 # ESP32 Weather Station with OTA Updates
 
-This project is a weather station built using an ESP32 microcontroller. It provides various features such as displaying the time, controlling a buzzer, toggling a laser, and presenting weather information. Additionally, it includes over-the-air (OTA) update functionality to easily update the firmware wirelessly.
+Thi project is a weather station built using an ESP32 microcontroller. It provides various features such as displaying the time, controlling a buzzer, toggling a laser, and presenting weather information. Additionally, it includes over-the-air (OTA) update functionality to easily update the firmware wirelessly.
 
 ## Dependencies
 
